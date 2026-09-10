@@ -41,6 +41,10 @@ window/stretch/aspect="keep_width"
 
 project/assembly_name="Harvester"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/virtual_joystick/plugin.cfg")
+
 [input]
 
 ui_accept={
