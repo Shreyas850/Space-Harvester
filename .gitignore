@@ -12,3 +12,7 @@ data_*/
 
 # VScode ignores
 .vscode
+
+Release's Windows/
+*.exe
+*.apk
