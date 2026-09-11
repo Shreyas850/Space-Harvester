@@ -16,3 +16,7 @@ data_*/
 #Release's Windows/
 *.exe
 *.apk
+
+#License's TXT
+AfterInstall.txt
+BeforeInstall.txt
